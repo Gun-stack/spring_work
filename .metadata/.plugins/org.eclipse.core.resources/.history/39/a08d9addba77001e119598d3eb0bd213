@@ -1,0 +1,8 @@
+package com.kosta.di.sample1;
+
+public class MessageBean {
+	public static void main(String[] args) {
+		
+	}
+
+}

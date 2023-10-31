@@ -1,0 +1,9 @@
+package com.kosta.di.sample1;
+
+
+public class Di2Application {
+
+	public static void main(String[] args) {
+	}
+
+}

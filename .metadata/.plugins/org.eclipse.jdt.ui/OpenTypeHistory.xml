@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=di2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kosta.di.sample1{MessageBean.java[MessageBean" modifiers="513" timestamp="1698738163923"/>
+    <typeInfo handle="=di2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kosta.di.sample2{MessageBean.java[MessageBean" modifiers="513" timestamp="1698738637045"/>
+    <typeInfo handle="=di2/C:\/Users\/KOSTA\/.m2\/repository\/org\/springframework\/boot\/spring-boot-autoconfigure\/2.7.11\/spring-boot-autoconfigure-2.7.11.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.boot=/=/maven.artifactId=/spring-boot-autoconfigure=/=/maven.version=/2.7.11=/=/maven.scope=/compile=/&lt;org.springframework.boot.autoconfigure.condition(OnClassCondition$OutcomesResolver.class[OutcomesResolver" modifiers="1546" timestamp="1698736160895"/>
+    <typeInfo handle="=di2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kosta.di.sample2{OutPutter.java[OutPutter" modifiers="513" timestamp="1698739552517"/>
+</typeInfoHistroy>

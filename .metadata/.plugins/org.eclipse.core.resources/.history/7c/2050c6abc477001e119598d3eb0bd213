@@ -1,0 +1,14 @@
+package com.kosta.di.sample2;
+
+import java.io.IOException;
+
+public class FileOutputter implements OutPutter {
+	private String filePath;
+	
+
+	@Override
+	public void output(String message) throws IOException {
+		
+	}
+
+}

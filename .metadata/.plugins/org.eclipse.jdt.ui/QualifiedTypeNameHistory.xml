@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.aop.framework.CglibAopProxy.SerializableNoOp"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.kosta.di.sample1.MessageBean"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.kosta.di.sample2.FileOutputter"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="com.kosta.di.sample2.OutPutter"/>
+    <fullyQualifiedTypeName name="com.kosta.di.sample3.EmployeeImpl"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.kosta.di.sample3.Employee"/>
+</qualifiedTypeNameHistroy>
